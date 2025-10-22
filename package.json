@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
-    "mongoose": "^8.0.0",  // MongoDB সংযোগের জন্য
-    "dotenv": "^16.3.1"    // গোপন তথ্য লোড করার জন্য
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.3.1"
   }
 }
